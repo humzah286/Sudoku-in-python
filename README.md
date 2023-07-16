@@ -8,5 +8,10 @@ Following is the sample of how my Application works:
 
 <div align="center">
   <img src="menu.png" width="350" title="Menu">
+</div>
+
+Here is a sample of Game where timer and number of mistakes is also mantained. 
+
+<div align="center">
   <img src="inGame.png" width="350" alt="">
 </div>
