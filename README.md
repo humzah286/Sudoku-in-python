@@ -9,7 +9,8 @@ Following is the sample of how my Application works:
 <div align="center">
   <img src="menu.png" width="350" title="Menu">
 </div>
-
+<br>
+<br>
 Here is a sample of Game where timer and number of mistakes is also mantained. 
 
 <div align="center">
