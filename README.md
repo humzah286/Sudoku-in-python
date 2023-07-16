@@ -12,6 +12,7 @@ Following is the sample of how my Application works:
 <br>
 <br>
 Here is a sample of Game where timer and number of mistakes is also mantained. 
+<br>
 
 <div align="center">
   <img src="inGame.png" width="350" alt="">
